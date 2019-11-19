@@ -18,4 +18,15 @@ activePlayer = 0;
 // Can use Math.floor(Math.random() * 6) + 1 for the below as well.
 dice = Math.ceil(Math.random() * 6);
 
+//textContent only changes plain text. The query selector changes the value of the element
+//This is a setter
 document.querySelector(`#current-${activePlayer}`).textContent = dice;
+//innerHTML lets you pass in some html values so you can add further styling such as the italics below
+// document.querySelector(`#current-${activePlayer}`).innerHTML = '<em>' + dice + '</em>';
+
+// can also store the value of an element by assigning it to a variable. This is a getter.
+var x = document.querySelector('#score-0').textContent;
+console.log(x);
+
+// display is the property. none is the value
+document.querySelector('.dice').style.display = 'none';
