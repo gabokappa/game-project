@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/../Udemy/complete-javascript-course/3-how-JS-works/final/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy/complete-javascript-course/3-how-JS-works/final/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Udemy/complete-javascript-course/3-how-JS-works/starter/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/../Udemy/complete-javascript-course/3-how-JS-works/starter/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +33,10 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -64,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574087731350</updated>
       <workItem from="1574087732748" duration="1785000" />
-      <workItem from="1574153745576" duration="1863000" />
+      <workItem from="1574153745576" duration="2588000" />
     </task>
     <servers />
   </component>
